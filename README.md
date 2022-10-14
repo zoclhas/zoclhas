@@ -1,16 +1,14 @@
-### Hi there 👋
+## Heyaa! I am Zoc- 
 
-<!--
-**zoclhas/zoclhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web dev and material artist- I have been doing web dev from 2021, and creating materials from 2020. I do a bit of graphics design too
+Checkout my site here : [zoclhas.com](https://zoclhas.com)
 
-Here are some ideas to get you started:
+## Technologies I've used: 
+>**HTML, CSS, JSS**
+**ReactJS**
+**NextJS**
+**Django**
+**Bootstrap**
+**NextUI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I am not good at writing about me haha*
