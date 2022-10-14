@@ -5,10 +5,14 @@ Checkout my site here : [zoclhas.com](https://zoclhas.com)
 
 ## Technologies I've used: 
 >**HTML, CSS, JS**
+>
 >**ReactJS**
 >**NextJS**
+>
 >**Django**
+>
 >**Bootstrap**
+>
 >**NextUI**
 
 *I am not good at writing about me haha*
