@@ -9,19 +9,6 @@ I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learni
 
 <br />
 
-## **Github Stats**
-
-<div style="display: flex; gap: 1rem; justify-content: center; align-items: center">
-    <a href="https://github.com/zoclhas">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zoclhas&show_icons=true&theme=onedark&hide_border=true)" alt="Github Stats" />
-    </a>
-    <a href="https://github.com/zoclhas">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoclhas&show_icons=true&theme=onedark&hide_border=true&layout=compact))](https://github.com/anuraghazra/github-readme-stats)" alt="Github Lang Stats" />
-    </a>
-</div>
-
-<br />
-
 ## **Skills**
 
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&logoColor=white&color=FFEDC2)
@@ -36,3 +23,16 @@ I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learni
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+
+<br />
+
+## **Github Stats**
+
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: center">
+    <a href="https://github.com/zoclhas">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zoclhas&show_icons=true&theme=onedark&hide_border=true)" alt="Github Stats" />
+    </a>
+    <a href="https://github.com/zoclhas">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoclhas&show_icons=true&theme=onedark&hide_border=true&layout=compact))](https://github.com/anuraghazra/github-readme-stats)" alt="Github Lang Stats" />
+    </a>
+</div>
