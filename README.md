@@ -11,7 +11,7 @@ I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learni
 
 ## **Github Stats**
 
-<div style="display: flex; gap: 1rem; align-items: center">
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: center">
     <a href="https://github.com/zoclhas">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=zoclhas&show_icons=true&theme=onedark&hide_border=true)" alt="Github Stats" />
     </a>
