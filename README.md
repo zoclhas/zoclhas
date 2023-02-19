@@ -1,3 +1,4 @@
+
 [![Zoclhas's Banner](./assets//banner.png)](https://zoclhas.com)
 
 Heya!
@@ -15,9 +16,10 @@ I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learni
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=FFEDC2)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=FFEDC2)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=FFEDC2)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=FFEDC2)
 
