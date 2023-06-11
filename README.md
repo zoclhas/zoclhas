@@ -35,6 +35,6 @@ I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learni
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=zoclhas&show_icons=true&theme=onedark&hide_border=true)" alt="Github Stats" />
     </a>
     <a href="https://github.com/zoclhas">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoclhas&show_icons=true&theme=onedark&hide_border=true&layout=compact))](https://github.com/anuraghazra/github-readme-stats)" alt="Github Lang Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoclhas&show_icons=true&theme=onedark&hide_border=true&layout=compact" alt="Github Lang Stats" />
     </a>
 </div>
