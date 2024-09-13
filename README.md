@@ -4,9 +4,7 @@
 Heya!
 I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learning backend too, an artist and play volleyball sometimes. I make mostly FE applications, but have some full-stack ones too and have made an app before.
 
-[Check out my projects.](https://zoclhas.com/#work)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ur183711ko7571osttxsyv0le&cover_image=true&theme=natemoo-re&show_offline=false&background_color=131313&bar_color=ffedc2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ur183711ko7571osttxsyv0le&redirect=true)
+[Check out my projects.](https://zoch.dev/projects)
 
 <br />
 
@@ -19,6 +17,7 @@ I'm Zoclhas / Zoc (whatever you wish to call me), a FE developer- Slowing learni
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=FFEDC2)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=FFEDC2)
 ![](https://img.shields.io/badge/Code-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=FFEDC2)
